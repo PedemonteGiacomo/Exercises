@@ -1,3 +1,5 @@
+# https://leetcode.com/problems/moving-average-from-data-stream/description/
+
 from collections import deque
 
 class MovingAverage(object):
